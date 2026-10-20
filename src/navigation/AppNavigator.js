@@ -7,7 +7,7 @@ import ContactScreen from '../pages/ContactScreen';
 
 const Stack = createNativeStackNavigator();
 
-/** Mantém a arquitetura de navegação do projeto original. */
+
 export default function AppNavigator() {
   return (
     <NavigationContainer>

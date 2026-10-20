@@ -67,7 +67,7 @@ const styles = StyleSheet.create({
     paddingVertical: 12,
     fontSize: 15,
   },
-  multiline: { minHeight: 116, paddingTop: 15 },
+  multiline: { minHeight: 115, paddingTop: 15 },
   inputError: { borderColor: colors.danger },
   error: { fontSize: 12, color: colors.danger, marginTop: 7 },
 });

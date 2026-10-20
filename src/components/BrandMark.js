@@ -56,6 +56,6 @@ const styles = StyleSheet.create({
   },
   leaf: {
     position: 'absolute',
-    transform: [{ rotate: '-42deg' }],
+    transform: [{ rotate: '-41deg' }],
   },
 });
