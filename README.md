@@ -1,19 +1,20 @@
 Protótipo de aplicativo mobile institucional para a atividade de 21 de outubro
+
 ### 1. Login
 
-![Tela Login](/img1.png)
+![Tela Login](prints/img1.png)
 
 ### 2. Home
 
-![Tela Home](/img2.png)
+![Tela Home](prints/img2.png)
 
 ### 3. Sobre
 
-![Tela Sobre](/img3.png)
+![Tela Sobre](prints/img3.png)
 
 ### 4. Contato
 
-![Tela Contato](/img4.png)
+![Tela Contato](prints/img4.png)
 
 
 Gustavo Avelino da Silva
